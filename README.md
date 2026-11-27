@@ -1,0 +1,2 @@
+# StudyFlow
+Smart Student Planner
